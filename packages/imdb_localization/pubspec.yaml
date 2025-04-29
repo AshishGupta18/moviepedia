@@ -1,0 +1,16 @@
+name: imdb_localization
+description: This package contains localization.
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  slang: ^4.7.1
+  slang_flutter: ^4.7.0
+
+dev_dependencies:
+  thunder_analysis:
+    git:
+      url: https://github.com/khamidjon/thunder-analysis
+  build_runner: ^2.4.15
+  slang_build_runner: ^4.7.0
